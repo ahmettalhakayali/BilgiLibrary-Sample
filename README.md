@@ -1,4 +1,4 @@
-# BilgiLibrary Sample
+# Sample of BilgiLibrary Mobile Application
 
 This file contains mentioned in Project Report, sample of BilgiLibrary Mobile App for "Bilgi Yayınları" and "BilgiLibrary Final Thesis Project".
 
